@@ -6,3 +6,7 @@ Get the templates that will help you gain cybersecurity knowledge.
 ### libraries
 
 ### functions
+📍 scan()
+📍 check()
+📍 penetrate()
+
